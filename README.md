@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/hero.svg" alt="securities" width="880"></p>
+
 # lux/securities
 
 Go bindings + ergonomic helpers for ONCHAINID and ERC-3643.
